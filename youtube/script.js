@@ -1,7 +1,7 @@
 var mp3Btn = document.getElementById('mp3');
 var	mp4Btn = document.getElementById('mp4');
 var URLinput = document.querySelector('.URL-input');
-var server = 'http://localhost:4000';
+var server = 'https://github.com/kadirdenalkitabi/kadirdenalkitabi.github.io/blob/master/youtube/79154904-young-man-back-flip-parkour-in-the-urban-space-sport-in-the-city-sport-activities-outdoors-acrobatic.jpg?raw=true';
 
 mp3Btn.addEventListener('click', () => {
 	console.log(`URL: ${URLinput.value}`);	
